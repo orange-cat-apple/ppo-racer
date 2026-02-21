@@ -18,8 +18,9 @@ The model is powered by Proximal Policy Optimization (PPO). PPO is great for con
 ![Learning Curve](./learning_curve.png)
 
 <video width="100%" autoplay loop muted controls playsinline>
-  <source src="./video_master/deepmind_portfolio_lap-episode-1.mp4" type="video/mp4">
+  <source src="https://github.com/orange-cat-apple/ppo-racer/raw/main/video_master/deepmind_portfolio_lap-episode-1.mp4" type="video/mp4">
 </video>
+
 
 ## Setup and Execution
 
