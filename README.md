@@ -19,7 +19,12 @@ The model is powered by Proximal Policy Optimization (PPO). PPO is great for con
 
 
 
-https://github.com/user-attachments/assets/36022ebf-342e-4cd0-af42-1fe56b148575
+
+<video width="100%" autoplay loop muted playsinline>
+  <source src="https://github.com/user-attachments/assets/79b99d18-318c-4249-b179-e3c2d827148d" type="video/mp4">
+</video>
+
+
 
 
 
