@@ -1,0 +1,16 @@
+venv/
+.venv/
+env/
+__pycache__/
+logs_clean/
+venv/
+.venv/
+env/
+__pycache__/
+logs_clean/
+rl_car/
+lib/
+bin/
+include/
+lib64/
+pyvenv.cfg
